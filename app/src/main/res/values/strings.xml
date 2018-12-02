@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Allocate</string>
+    <string name="logotodo">TODO</string>
+    <string name="splashText">ICS 115</string>
+    <string name="password">Password</string>
+    <string name="confpassword">Confirm Password</string>
+    <string name="username">Username</string>
+    <string name="loginBtn">Login</string>
+    <string name="registerBtn">New User? Register</string>
+    <string name="registerBtnDone">REGISTER</string>
+    <string name="register">REGISTER (Step 1 of 3)</string>
+    <string name="register2">REGISTER (Step 2 of 3)</string>
+    <string name="register3">REGISTER (Step 3 of 3)</string>
+    <string name="next">Next</string>
+    <string name="credits">RONQUILLO and SANTIAGO</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="contactnum">Contact Number</string>
+    <string name="backLogin">Back to Login</string>
+    <string name="backToPage1">Go Back</string>
+    <string name="backToPage2">Go Back</string>
+    <string name="emergencyname">Confirm Name</string>
+    <string name="emergencycontact">Confirm Number</string>
+    <string name="next2">Next</string>
+</resources>
